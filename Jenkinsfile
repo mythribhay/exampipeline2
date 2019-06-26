@@ -1,11 +1,15 @@
 node {  
-    stage('Build') { 
+    stage('Build') 
+    { 
         // 
     }
-    stage('Test') { 
+    stage('Test') 
+    { 
         // 
     }
-    stage('Deploy') { 
+    stage('Deploy') 
+    { 
         // 
     }
 }
+
